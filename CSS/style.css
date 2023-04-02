@@ -78,7 +78,7 @@ html {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("../nanjak.jpg");
+    background-image: url("../img/nanjak.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -125,7 +125,7 @@ html {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("../motoo.jpg");
+    background-image: url("../img/motoo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -180,7 +180,7 @@ html {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("../kumpul.jpg");
+    background-image: url("../img/kumpul.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
